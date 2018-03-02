@@ -10,7 +10,7 @@ package myproject;
  * @author ddubovik
  */
 public class MyProject {
-ffffffffaaaaaaa
+ffffffffaaaaasdf sadfssdf daaaa
     /**
      * @param args the command line arguments
      */
